@@ -1,0 +1,5 @@
+[X-GNOME-Metatheme]
+Name=Camo-gtk
+Type=X-GNOME-Metatheme
+Comment=GTK them to match the Camo-darkest Plasma color scheme 
+Encoding=UTF-8
